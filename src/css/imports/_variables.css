@@ -9,14 +9,27 @@
 	--grey-3: rgba(89, 87, 86, 1);
 	--grey-4: rgba(66, 64, 64, 1);
 	--black: rgba(43, 37, 35, 1);
+	--soft-blue: #6cace4;
+	--white: #f1f1f1;
+	--very-light-blue: #ecf6ff;
+	--maize: #f8c954;
+	--pale-sky-blue: #bee1ff;
+	--white-two: #fcfcfc;
+	--mid-blue: #216fb4;
+	--soft-green: #8bc990;
+	--blush: #f48972;
+	--pale-teal: #7dc59b;
+	--white-two-84: rgba(252, 252, 252, 0.84);
+	--dark-slate-blue: #262262;
 
 	/* Typography */
-	--font-family: Nunito Sans, -apple-system, BlinkMacSystemFont, 'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
+	--font-family: "Gotham", Nunito Sans, -apple-system, BlinkMacSystemFont, 'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
 	--line-height: 1.5;
 
 	--font-size: 18px;
 	--font-size-m: 20px;
 	--font-size-l: 22px;
+	--
 
 	--body-font-weight: 400;
 	--bold-font-weight: 700;
